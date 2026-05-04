@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheYock
 - 👀 I’m interested in programming and creating video games.
-- 🌱 I’m currently learning computer science at SNHU
+- 🌱 Bachelors Degree in COmputer Science
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me gyock@icloud.com
 - https://theyock.wordpress.com/
