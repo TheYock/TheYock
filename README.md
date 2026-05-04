@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheYock
 - 👀 I’m interested in programming and creating video games.
-- 🌱 Bachelors Degree in COmputer Science
+- 🌱 Bachelors Degree in Computer Science
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me gyock@icloud.com
 - https://theyock.wordpress.com/
